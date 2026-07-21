@@ -23,5 +23,3 @@ I specialize in building scalable backend systems with **Java** and **Spring Boo
 * 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/thiagomohrs) <!-- Replace or adjust link -->
 
 ---
-
-[![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomohrs&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
