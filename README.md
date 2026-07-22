@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Systems Coordinator & Software Developer
 
-I specialize in backend architecture and system coordination, building robust applications with **Java, Spring Boot, Python**, and **Flutter**.
+I specialize in backend architecture and system coordination, building robust applications with **Java, Spring Boot and Python**.
 
 ---
 
