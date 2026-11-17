@@ -1,0 +1,34 @@
+user: thiagomohrs
+
+show: [about, summary, languages, weekly]
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: classic
+  color: blue
+  animations: true
+  background: none
+  border: false
+
+cards:
+  summary:
+    ring: github
+  languages:
+    title: Most used languages
+    count: 6
+    other: true
+  weekly:
+    title: Weekly rhythm
+  about:
+    title: About
+    headline: "Hi, I'm *Thiago Mohr*"
+    lines:
+      - "Systems Coordinator & Backend / Mobile Engineer"
+      - "Building reliable systems in *Java*, *Go* & *Python*"
+    facts:
+      Location: "Florianópolis, BR"
+      Certification: "CAPM® (PMI)"
+      Focus: "Backend, Cloud (AWS) & Flutter"
