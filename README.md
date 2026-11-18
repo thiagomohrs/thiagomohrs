@@ -62,16 +62,6 @@ I specialize in backend architecture and system coordination, building scalable,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=thiagomohrs&show_icons=true&hide_border=true&theme=transparent" alt="Thiago Mohr's GitHub stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thiagomohrs&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165" />
-</p>
-
-<!--
-  github-cool-readme (https://github.com/pedrocatalao/github-cool-readme)
-  After adding the CARDS_TOKEN secret and running the "Update README cards" workflow once,
-  replace the <p align="center"> block above with the animated cards below:
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagomohrs/thiagomohrs/cards/about-dark.svg">
     <img src="https://raw.githubusercontent.com/thiagomohrs/thiagomohrs/cards/about-light.svg" width="400" alt="About">
@@ -91,4 +81,3 @@ I specialize in backend architecture and system coordination, building scalable,
     <img src="https://raw.githubusercontent.com/thiagomohrs/thiagomohrs/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
   </picture>
 </p>
--->
